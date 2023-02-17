@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedor back-end com a linguagem C# .NET
+Eu sou desenvolvedor mobile em Flutter
 
 
 ## 🔗 Links
@@ -12,9 +12,9 @@ Eu sou desenvolvedor back-end com a linguagem C# .NET
 
 
 ## 🛠 Habilidades
-* C# .NET
-* ASP.NET
-* HTML
-* CSS
-* SQL - SQL Server
+* Dart
+* Flutter
+* Postman
+* SQFlite
+* GetX
 
